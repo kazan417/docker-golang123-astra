@@ -40,3 +40,5 @@ places to ask questions about the Go language.
 
 [rf]: https://reneefrench.blogspot.com/
 [cc4-by]: https://creativecommons.org/licenses/by/4.0/
+### about this repo
+This repository contain Dockerfile og go 1.23 that compiles for astra
